@@ -1,0 +1,57 @@
+.header {
+    background: rgb(22,70,19);
+    background: -moz-linear-gradient(207deg, rgba(22,70,19,1) 1%, rgba(99,164,22,1) 100%);
+    background: -webkit-linear-gradient(207deg, rgba(22,70,19,1) 1%, rgba(99,164,22,1) 100%);
+    background: linear-gradient(207deg, rgba(22,70,19,1) 1%, rgba(99,164,22,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#164613",endColorstr="#63a416",GradientType=1);
+}
+
+.baris {
+    margin-top: 50px;
+}
+
+#footer {
+	background: #00436b; 
+	
+}
+
+#footer p {
+	color: #fff;
+}
+
+#footer hr {
+	color: #fff;
+}
+
+#alamat {
+	padding: 60px 0;
+	background-color: #f8f8f8;
+}
+
+#alamat h3 {
+	text-align: center;
+	padding-bottom: 30px;
+	font-weight: 600;
+	font-size: 32px;	
+}
+
+#alamat ul {
+    list-style-type: none;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+#alamat .fa {
+	font-size: 30px;
+	margin-right: 20px;
+	margin-bottom: 5px;
+	line-height: 40px;
+	vertical-align: middle;
+}
+
+#alamat span {
+    font-family: sans-serif;
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+}
